@@ -7,7 +7,7 @@
 
 ##To run exponential backoff
 
-1. `$ node backoff/backoff.js`
+`$ node backoff/backoff.js`
 
 ###[Question 1](https://github.com/sedroche/bug-fixes/blob/master/questions/question1.js)
 
