@@ -22,4 +22,4 @@ I changed the code to call the callbacks in sequence and have created a [test](h
 
 ###[Question 3](https://github.com/sedroche/bug-fixes/blob/master/backoff/backoff.js)
 
-I have implemented the exponentialBack function.
+I have implemented the [exponentialBack function](https://github.com/sedroche/bug-fixes/blob/master/backoff/backoff.js#L29).
